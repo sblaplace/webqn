@@ -1,2 +1,2 @@
 # webqn
-BQN web server
+BQN web server - unoptimized, for fun
